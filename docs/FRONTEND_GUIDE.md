@@ -63,16 +63,3 @@ Possible future improvements include:
 - Improved testing coverage
 ---
 This guide provides a simple overview of the current Karshak frontend and its major user flows.
-
-Ready-to-paste pull request description
-## Summary
-Adds a beginner-friendly frontend guide for the Karshak project.
-## What I added
-- Documented the frontend technology stack
-- Explained the Farmer user flow
-- Explained the Buyer user flow
-- Described authentication and role-based navigation at a high level
-- Added local frontend run instructions
-- Included the production frontend link
-## Scope
-Documentation only. No production code or application behavior was changed.
